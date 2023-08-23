@@ -2,7 +2,7 @@
 Welcome to the Pandas Data Science Repository! This repository houses a collection of code files and accompanying explanations derived from the online course titled "12 Data Science Projects with Pandas." This comprehensive course, available on Udemy, is designed to help you master advanced data science techniques using the powerful Pandas library in Python.
 
 # Course Overview
-Course: Python Data Science with Pandas - Master Advanced Projects
+[Python Data Science with Pandas - Master Advanced Projects](https://www.udemy.com/course/python-data-science-with-pandas-master-advanced-projects/)
 
 Instructor: [John Doe]
 
@@ -14,6 +14,7 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 
 
     git clone https://github.com/jigsaw1313/Pandas_Data_Science.git
+
 **Explore the Notebooks**: Navigate through the various Jupyter Notebook files to access code examples for different data science projects. Each notebook is accompanied by explanations that provide context, rationale, and details about the code.
 
 **Learn and Experiment**: Use these notebooks to deepen your understanding of Pandas and its applications in real-world data science projects. Feel free to modify and experiment with the code to see how different changes affect the outcomes.
